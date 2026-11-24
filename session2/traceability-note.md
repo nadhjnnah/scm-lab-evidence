@@ -1,3 +1,5 @@
+
+
 \# Traceability Note
 
 
@@ -6,17 +8,17 @@
 
 |---|---|
 
-| Change request / Issue | #1 - Add traceability note template for Session 2 |
+| Change request / Issue | #1 - https://github.com/nadhjnnah/scm-lab-evidence/issues/1 |
 
 | Branch | issue-1-traceability-template |
 
-| Pull request | To be updated after PR creation |
+| Pull Request | #2 - https://github.com/nadhjnnah/scm-lab-evidence/pull/2 |
 
-| Reviewer / review evidence | To be updated after review |
+| Reviewer / review evidence | nadhjnnah, Comment, 24 November 2026 - PR #2 review comments |
 
-| Merge result | To be updated after merge |
+| Merge result | Merged into main, merge commit cd2801a, 24 November 2026 |
 
 | Affected files | session2/traceability-note.md |
 
-| Verification | Verified that all required traceability fields are included |
+| Verification | Verified that the file exists in the repository and contains all required traceability fields.
 
